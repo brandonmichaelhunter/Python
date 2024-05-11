@@ -8,6 +8,7 @@ Welcome, this repository contains my collection of code bases that are primarly 
 - Weather Data Analysis
   
 ## Web Development
+- [Flask Translator Service](https://github.com/brandonmichaelhunter/Python/tree/master/WEB/FlaskTranslatorService)
 ## Data Analytics
 ## Deep Learning 
 ## Desktop Apps
