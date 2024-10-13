@@ -12,3 +12,8 @@ Welcome, this repository contains my collection of code bases that are primarly 
 ## Data Analytics
 ## Deep Learning 
 ## Desktop Apps
+
+Python Projects
+https://roadmap.sh/projects?g=python
+
+https://replit.com/learn/100-days-of-python/hub
